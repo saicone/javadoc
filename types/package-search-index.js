@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.saicone.types"},{"l":"com.saicone.types.iterator"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.saicone.types"},{"l":"com.saicone.types.iterator"},{"l":"com.saicone.types.parser"},{"l":"com.saicone.types.util"}]
