@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.saicone.types"},{"l":"com.saicone.types.iterator"},{"l":"com.saicone.types.parser"},{"l":"com.saicone.types.util"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.saicone.types"},{"l":"com.saicone.types.annotation"},{"l":"com.saicone.types.iterator"},{"l":"com.saicone.types.parser"},{"l":"com.saicone.types.util"}];updateSearchResults();
