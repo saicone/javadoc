@@ -8,3 +8,4 @@ com.saicone.rtag.registry
 com.saicone.rtag.stream
 com.saicone.rtag.tag
 com.saicone.rtag.util
+com.saicone.rtag.util.reflect
