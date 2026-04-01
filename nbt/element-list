@@ -1,5 +1,6 @@
 com.saicone.nbt
 com.saicone.nbt.io
 com.saicone.nbt.mapper
+com.saicone.nbt.nio
 com.saicone.nbt.util
 com.saicone.nbt.util.zip
