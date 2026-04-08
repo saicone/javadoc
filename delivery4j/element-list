@@ -1,5 +1,3 @@
 com.saicone.delivery4j
 com.saicone.delivery4j.broker
-com.saicone.delivery4j.cache
-com.saicone.delivery4j.log
 com.saicone.delivery4j.util
