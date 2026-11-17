@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.saicone.delivery4j"},{"l":"com.saicone.delivery4j.broker"},{"l":"com.saicone.delivery4j.util"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.saicone.delivery4j"},{"l":"com.saicone.delivery4j.broker"},{"l":"com.saicone.delivery4j.message"},{"l":"com.saicone.delivery4j.util"}];updateSearchResults();
